@@ -1,0 +1,88 @@
+/* Material Design 2.0 Styles */
+.md-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+.md-heading {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    color: #333;
+}
+.md-form {
+    margin-bottom: 20px;
+}
+.md-card {
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    padding: 20px;
+}
+.md-card-title {
+    font-size: 1.25rem;
+    margin-bottom: 10px;
+    color: #666;
+}
+.md-card-content {
+    padding: 10px 0;
+}
+.md-form-actions {
+    text-align: right;
+}
+.md-button {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 1rem;
+    border-radius: 4px;
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+.md-button-primary {
+    background: #6200ea;
+    color: #fff;
+    border: none;
+}
+.md-button-primary:hover {
+    background: #3700b3;
+}
+.md-link {
+    color: #6200ea;
+    text-decoration: none;
+}
+.md-link:hover {
+    text-decoration: underline;
+}
+.md-delete-webp {
+    color: #d32f2f;
+}
+.md-delete-webp:hover {
+    text-decoration: underline;
+}
+.notice {
+    padding: 15px;
+    margin-top: 20px;
+    border-radius: 4px;
+}
+.notice-success {
+    background: #d4edda;
+    color: #155724;
+}
+.notice-error {
+    background: #f8d7da;
+    color: #721c24;
+}
+.md-file-list {
+    list-style: none;
+    padding: 0;
+}
+.md-file-item {
+    margin: 5px 0;
+}
+.md-file-converted {
+    background-color: #d4edda;
+    padding: 5px;
+    border-radius: 4px;
+}
